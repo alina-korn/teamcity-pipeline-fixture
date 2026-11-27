@@ -1,4 +1,4 @@
-# TeamCity pipeline fixture
+# TeamCity pipeline 1 fixture
 
 This repository is a small deterministic Python project for learning and
 testing TeamCity. Its first green build exercises the complete path from Git
